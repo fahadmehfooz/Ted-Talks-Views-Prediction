@@ -119,7 +119,7 @@ numerical columns.
 * Because of a large number of features, we were facing some overfitting. So,
 reaching to an optimal model was challenging.
 
-##FUTURE SCOPE OF WORK
+## FUTURE SCOPE OF WORK
 
 * We would want to build a quality corpus using most of the textual features here.
 * Time features are available, we could also try time series modelling.
