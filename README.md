@@ -30,6 +30,17 @@ dictionaries and lists are input into the dataset as strings.
 * ‘Transcript’ and ‘Description’ contain large amount of textual data.
 * The following table describes the numerical columns in the dataset.
 
+### UNIVARIATE ANALYSIS
+
+Following are some important observations from univariate analysis:
+![alt text](https://github.com/fahadmehfooz/Ted-Talks-Views-Prediction/blob/main/images/Univariate.png)
+
+
+### BIVARIATE ANALYSIS
+
+Following are some important observations from bivariate analysis:
+![alt text](https://github.com/fahadmehfooz/Ted-Talks-Views-Prediction/blob/main/images/Bivariate.png)
+
 ##  DATA CLEANING
 
 * On analyzing the numerical features in our dataset; we found outliers in most of the
