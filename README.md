@@ -50,7 +50,8 @@ features.
 After cleaning our data; the dataset is split into Train - Test datasets. This is done to ensure
 that our test dataset is completely isolated and there is no information leakage during the
 training process of machine learning models.
-DATA PREPROCESSING AND FEATURE ENGINEERING
+
+## DATA PREPROCESSING AND FEATURE ENGINEERING
 
 In this stage, we are creating two types of features:
 1) Numerical Features
