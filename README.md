@@ -75,7 +75,7 @@ For numerical word2Vector embedded features:
 * Used Google’s pre-trained word2vec model.
 * Created a corpus using transcript feature.
 * Cleaned the corpus by removing stop-words, digits, punctuation marks, etc.
-* After cleaning the corpus, feataure_vectors are created with dimension as 300.
+* After cleaning the corpus, feature_vectors are created with dimension as 300.
 
 ## DATA MODELLING
 
